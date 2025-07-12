@@ -37,7 +37,3 @@ This project presents an **AI-powered system** for real-time monitoring of **Per
 | Dataset       | Roboflow PPE Dataset |
 
 ---
-
-## 📊 Performance Metrics
-
-The model achieved a 99% accuracy in vehicle counting on the test video.
