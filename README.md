@@ -5,9 +5,8 @@ This project presents an **AI-powered system** for real-time monitoring of **Per
 > ⚠️ The goal is to enhance worker safety by replacing manual supervision with an **automated, scalable, and consistent** solution.
 
 ---
-
 ## Sample Output
-![GIF](
+![GIF](output_ppe.gif)
 ---
 
 ---
