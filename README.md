@@ -6,6 +6,12 @@ This project presents an **AI-powered system** for real-time monitoring of **Per
 
 ---
 
+## Sample Output
+![GIF](
+---
+
+---
+
 ## 🚀 Key Features
 
 - 🎯 **Multi-Class Object Detection**  
